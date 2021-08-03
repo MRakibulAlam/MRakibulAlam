@@ -3,7 +3,7 @@
 As a RF Engineer with 6+ years in engineering, I am excited to bring my passion for analytics to a new role. Being a quick learner who takes pride in my work, I am always looking for new and creative ways to solve problems and bring an analytical approach to understanding and utilizing data.
 
 - 🌱 I’m currently working on Machine Learning projects based in Python!
-- ✏️ I’m currently updating my portfolio projects <a href="https://portfolio-sumaia.herokuapp.com/">here</a>!
+//- ✏️ I’m currently updating my portfolio projects <a href="https://portfolio-sumaia.herokuapp.com/">here</a>!
 
 ### Programming tools I'm using
 
