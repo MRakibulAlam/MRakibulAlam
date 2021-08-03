@@ -12,7 +12,7 @@ As a data scientist with 5+ years in engineering, I am excited to bring my passi
 - 📈 Tableau, Power BI, Flourish
 - 🎈 Streamlit/Flask/Heroku
 
- ![Sumaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRakibulAlam&theme=dark&show_icons=true)
+ ![Rakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRakibulAlam&theme=dark&show_icons=true)
 
 <br />
 
